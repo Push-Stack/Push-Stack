@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Usama Bilal</h1>
 <h3 align="center">I'm a Young, Passionate, Self-Learned Independent Full Stack Javascript Developer with tons of experience which I gained from multiples projects.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=push-stack&label=Profile%20views&color=0e75b6&style=flat" alt="push-stack" /> </p>
+
 
 - 💬 Ask me about **Javascript**
 
