@@ -1,3 +1,5 @@
+![Full Stack Engineer](https://www.turing.com/blog/wp-content/uploads/2021/10/Full-Stack-Developers-vs.-Specialized-Developers-which-software-developer-should-you-hire-e1633358892811.jpg "Full Stack Engineer")
+
 <h1 align="center">Hi 👋, I'm Usama Bilal</h1>
 <h3 align="center">I'm a Young, Passionate, Self-Learned Independent Full Stack Javascript Developer with tons of experience which I gained from multiples projects.</h3>
 
